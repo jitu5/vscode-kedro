@@ -1,5 +1,11 @@
 # Change Log
 
+# 0.0.11
+## Major changes and new features
+- test for 11
+
+## Bug fix
+- test for 11
 
 # 0.0.10
 ## Major changes and new features
